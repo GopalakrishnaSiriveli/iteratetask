@@ -1,0 +1,43 @@
+.bar{
+    background-color:rgb(243, 203, 5)
+}
+.button{
+    background-color:white;
+    border-radius:10px;
+    color:black;
+    border:1px solid black;
+    text-align:center;
+    padding:10px;
+    margin-left:auto;
+    margin-right:0px;
+}
+/* styles.css */
+.service {
+    transition: color 0.3s ease;
+    font-weight:bold;
+  }
+  
+  .service:hover {
+    color: white;
+  }
+.boxer{
+    display:flex;
+    flex-direction:column;
+    justify-content:flex-start;
+    align-items:flex-start;
+}
+.footer{
+    display:flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+.pujacard{
+    background: linear-gradient(to bottom, lightskyblue, white);
+    border: 1px solid lightskyblue;
+}
+.details{
+    display:flex;
+    flex-direction:column;
+    justify-content:flex-start;
+    align-items:flex-start;
+}
